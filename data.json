@@ -235,6 +235,10 @@
                         "title": "寻找两数之和",
                         "accomplishment":"-1",
                         "id":"78"
+                    }, {
+                        "title": "分离1与非1",
+                        "accomplishment":"-1",
+                        "id":"104"
                     }]
                 },{
                     "title": "数组2",
@@ -275,6 +279,14 @@
                         "title": "第一个非重复字符",
                         "accomplishment":"-1",
                         "id":"86"
+                    }, {
+                        "title": "最长最短单词",
+                        "accomplishment":"-1",
+                        "id":"105"
+                    }, {
+                        "title": "单词倒排",
+                        "accomplishment":"-1",
+                        "id":"106"
                     }]
                 },{
                     "title": "字符串2",
@@ -291,6 +303,30 @@
                         "title": "学生考勤记录1",
                         "accomplishment":"-1",
                         "id":"89"
+                    }, {
+                        "title": "字符串片段数",
+                        "accomplishment":"-1",
+                        "id":"107"
+                    }, {
+                        "title": "二进制相加",
+                        "accomplishment":"-1",
+                        "id":"108"
+                    }]
+                },{
+                    "title": "树0",
+                    "expand":false,
+                    "children": [{
+                        "title": "大写转小写",
+                        "accomplishment":"-1",
+                        "id":"109"
+                    }, {
+                        "title": "左右和相等",
+                        "accomplishment":"-1",
+                        "id":"110"
+                    }, {
+                        "title": "大组字符",
+                        "accomplishment":"-1",
+                        "id":"111"
                     }]
                 },{
                     "title": "树1",
@@ -303,6 +339,10 @@
                         "title": "相同的树",
                         "accomplishment":"-1",
                         "id":"92"
+                    }, {
+                        "title": "大写转小写",
+                        "accomplishment":"-1",
+                        "id":"109"
                     }]
                 },{
                     "title": "树2",
@@ -315,6 +355,10 @@
                         "title": "合并树",
                         "accomplishment":"-1",
                         "id":"90"
+                    }, {
+                        "title": "单词替换",
+                        "accomplishment":"-1",
+                        "id":"129"
                     }]
                 },{
                     "title": "链表",
@@ -327,6 +371,10 @@
                         "title": "合并链表",
                         "accomplishment":"-1",
                         "id":"99"
+                    }, {
+                        "title": "字符串最大跨距",
+                        "accomplishment":"-1",
+                        "id":"130"
                     }]
                 },{
                     "title": "栈",
