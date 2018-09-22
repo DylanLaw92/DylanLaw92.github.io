@@ -386,5 +386,58 @@
                     }]
                 }
             ]
+        }, {
+            "expand":true,
+            "title": "初等数据结构",
+            "children": [{
+                    "title": "课程1",
+                    "expand":false,
+                    "children": [{
+                        "title": "火车排序",
+                        "accomplishment": "-1",
+                        "id":"119"
+                    }, {
+                        "title": "实现插入排序",
+                        "accomplishment": "-1",
+                        "id":"120"
+                    }, {
+                        "title": "出现次数超过一半的数",
+                        "accomplishment": "-1",
+                        "id":"121"
+                    }, {
+                        "title": "整数奇偶排序",
+                        "accomplishment": "-1",
+                        "id":"122"
+                    }, {
+                        "title": "单词排序",
+                        "accomplishment": "-1",
+                        "id":"123"
+                        }]
+                    }, {
+                    "title": "课程2",
+                    "expand":false,
+                    "children": [{
+                        "title": "十进制转九进制",
+                        "accomplishment": "-1",
+                        "id":"131"
+                    }, {
+                        "title": "大整数相加",
+                        "accomplishment": "-1",
+                        "id":"124"
+                    }, {
+                        "title": "计算2的N次方",
+                        "accomplishment": "-1",
+                        "id":"127"
+                    }, {
+                        "title": "进制转换",
+                        "accomplishment": "-1",
+                        "id":"133"
+                    }, {
+                        "title": "大整数相减",
+                        "accomplishment": "-1",
+                        "id":"125"
+                        }]
+                    }
+            ]
         }]
 }
