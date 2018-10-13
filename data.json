@@ -453,6 +453,22 @@
                         "accomplishment": "-1",
                         "id":"136"
                     }]
+                    }, {
+                    "title": "课程4",
+                    "expand":false,
+                    "children": [{
+                        "title": "递归求和",
+                        "accomplishment": "-1",
+                        "id":"139"
+                    }, {
+                        "title": "Pell数列",
+                        "accomplishment": "-1",
+                        "id":"140"
+                    }, {
+                        "title": "吃糖果",
+                        "accomplishment": "-1",
+                        "id":"141"
+                    }]
                     }
             ]
         }]
