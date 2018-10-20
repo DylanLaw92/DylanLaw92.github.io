@@ -468,6 +468,26 @@
                         "title": "吃糖果",
                         "accomplishment": "-1",
                         "id":"141"
+                    }, {
+                        "title": "汉诺塔",
+                        "accomplishment": "-1",
+                        "id":"142"
+                    }]
+                    },{
+                    "title": "课程5",
+                    "expand":false,
+                    "children": [{
+                        "title": "输出树的节点值",
+                        "accomplishment": "-1",
+                        "id":"143"
+                    }, {
+                        "title": "层序遍历",
+                        "accomplishment": "-1",
+                        "id":"144"
+                    }, {
+                        "title": "二叉搜索树的插入",
+                        "accomplishment": "-1",
+                        "id":"145"
                     }]
                     }
             ]
