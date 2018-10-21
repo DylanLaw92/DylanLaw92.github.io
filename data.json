@@ -477,13 +477,17 @@
                     "title": "课程5",
                     "expand":false,
                     "children": [{
-                        "title": "输出树的节点值",
+                        "title": "树的前序遍历",
                         "accomplishment": "-1",
                         "id":"143"
                     }, {
-                        "title": "层序遍历",
+                        "title": "树的中序遍历",
                         "accomplishment": "-1",
-                        "id":"144"
+                        "id":"146"
+                    }, {
+                        "title": "树的后序遍历",
+                        "accomplishment": "-1",
+                        "id":"147"
                     }, {
                         "title": "二叉搜索树的插入",
                         "accomplishment": "-1",
