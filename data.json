@@ -497,6 +497,30 @@
                         "accomplishment": "-1",
                         "id":"145"
                     }]
+                    }, {
+                    "title": "课程6",
+                    "expand":false,
+                    "children": [{
+                        "title": "数字统计",
+                        "accomplishment": "-1",
+                        "id":"148"
+                    }, {
+                        "title": "国家排序",
+                        "accomplishment": "-1",
+                        "id":"149"
+                    }, {
+                        "title": "字符串循环位移判断",
+                        "accomplishment": "-1",
+                        "id":"150"
+                    }, {
+                        "title": "字符串最大跨距",
+                        "accomplishment": "-1",
+                        "id":"130"
+                    }, {
+                        "title": "单词替换",
+                        "accomplishment": "-1",
+                        "id":"129"
+                    }]
                     }
             ]
         }]
