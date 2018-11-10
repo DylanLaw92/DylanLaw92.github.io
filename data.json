@@ -545,6 +545,22 @@
                         "accomplishment": "-1",
                         "id":"155"
                     }]
+                    }, {
+                    "title": "课程7",
+                    "expand":false,
+                    "children": [{
+                        "title": "实现快速排序",
+                        "accomplishment": "-1",
+                        "id":"156"
+                    }, {
+                        "title": "实现归并排序",
+                        "accomplishment": "-1",
+                        "id":"157"
+                    }, {
+                        "title": "质数的积与和",
+                        "accomplishment": "-1",
+                        "id":"158"
+                    }]
                     }
             ]
         }]
