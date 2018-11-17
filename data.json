@@ -557,6 +557,18 @@
                         "accomplishment": "-1",
                         "id":"158"
                     }]
+                    }, {
+                    "title": "课程8",
+                    "expand":false,
+                    "children": [{
+                        "title": "分解因数",
+                        "accomplishment": "-1",
+                        "id":"172"
+                    }, {
+                        "title": "分解自然数",
+                        "accomplishment": "-1",
+                        "id":"173"
+                    }]
                     }
             ]
         }]
