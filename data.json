@@ -2,7 +2,7 @@
     "expand":true,
     "title": "101编程系列课程",
     "children": [{
-            "expand":true,
+            "expand":false,
             "title": "程序设计基础",
             "children": [{
             "title": "课程1",
@@ -218,7 +218,7 @@
                     }]
                 }]
         },{
-            "expand":true,
+            "expand":false,
             "title": "初等数据结构",
             "children": [{
                     "title": "数组1",
@@ -383,7 +383,7 @@
                 }
             ]
         }, {
-            "expand":true,
+            "expand":false,
             "title": "初级算法",
             "children": [{
                     "title": "课程1",
