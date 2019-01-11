@@ -52,9 +52,21 @@
             "title": "课程2",
             "expand":false,
             "children": [{
-                "title": "判断偶数",
+                "title": "整型与bool的转换",
                 "accomplishment":"-1",
-                "id":"12"
+                "id":"180"
+            },{
+                "title": "判断奇偶",
+                "accomplishment":"-1",
+                "id":"15"
+            },{
+                "title": "判断三个数能否组成三角形",
+                "accomplishment":"-1",
+                "id":"185"
+            },{
+                "title": "判断两个数的大小",
+                "accomplishment":"-1",
+                "id":"186"
             }, {
                 "title": "游戏币充值",
                 "accomplishment":"-1",
@@ -63,16 +75,12 @@
                 "title": "游戏币充值（限年龄）",
                 "accomplishment":"-1",
                 "id":"14"
-            }, {
-                "title": "判断奇偶",
-                "accomplishment":"-1",
-                "id":"15"
-            }, {
-                "title": "小明答题",
+            },{
+                "title": "小明答题（选做）",
                 "accomplishment":"-1",
                 "id":"16"
             }, {
-                "title": "Case判断",
+                "title": "Case判断（选做）",
                 "accomplishment":"-1",
                 "id":"17"
             }]
@@ -119,18 +127,10 @@
                         "title": "倒序输出",
                         "accomplishment":"-1",
                         "id":"26"
-                    }, {
-                        "title": "判断质数",
-                        "accomplishment":"-1",
-                        "id":"27"
-                    }, {
+                    },{
                         "title": "画长方形",
                         "accomplishment":"-1",
                         "id":"28"
-                    }, {
-                        "title": "买鸡",
-                        "accomplishment":"-1",
-                        "id":"29"
                     }, {
                         "title": "画特殊正方形",
                         "accomplishment":"-1",
@@ -140,11 +140,15 @@
                         "accomplishment":"-1",
                         "id":"31"
                     }, {
-                        "title": "鸡兔同笼计算器",
+                        "title": "鸡兔同笼计算器（选做）",
                         "accomplishment":"-1",
                         "id":"32"
                     }, {
-                        "title": "99乘法表",
+                        "title": "判断质数（选做）",
+                        "accomplishment":"-1",
+                        "id":"27"
+                    }, {
+                        "title": "99乘法表（选做）",
                         "accomplishment":"-1",
                         "id":"33"
                     }]
@@ -152,6 +156,26 @@
                     "title": "课程5",
                     "expand":false,
                     "children": [{
+                        "title": "输出数组头尾和",
+                        "accomplishment":"-1",
+                        "id":"162"
+                    },{
+                        "title": "输出数组中间的数",
+                        "accomplishment":"-1",
+                        "id":"163"
+                    },{
+                        "title": "数组的和",
+                        "accomplishment":"-1",
+                        "id":"181"
+                    },{
+                        "title": "数组的最大值",
+                        "accomplishment":"-1",
+                        "id":"182"
+                    },{
+                        "title": "数组的最大值及最大值的下标",
+                        "accomplishment":"-1",
+                        "id":"183"
+                    },{
                         "title": "逆序输出（数组）",
                         "accomplishment":"-1",
                         "id":"34"
@@ -168,15 +192,15 @@
                         "accomplishment":"-1",
                         "id":"37"
                     }, {
-                        "title": "镜像相加",
+                        "title": "镜像相加（选做）",
                         "accomplishment":"-1",
                         "id":"38"
                     }, {
-                        "title": "最大相连数",
+                        "title": "最大相连数（选做）",
                         "accomplishment":"-1",
                         "id":"39"
                     }, {
-                        "title": "分离0与非0",
+                        "title": "分离0与非0（选做）",
                         "accomplishment":"-1",
                         "id":"40"
                     }]
@@ -184,19 +208,23 @@
                     "title": "课程6",
                     "expand":false,
                     "children": [{
-                        "title": "大小写转换",
+                        "title": "输出单词的头和尾",
                         "accomplishment":"-1",
-                        "id":"41"
+                        "id":"165"
+                    }, {
+                        "title": "输出单词的中间字符",
+                        "accomplishment":"-1",
+                        "id":"167"
                     }, {
                         "title": "判断回文字符串",
                         "accomplishment":"-1",
                         "id":"42"
                     }, {
-                        "title": "仅出现1次的字母",
+                        "title": "仅出现1次的字母（选做）",
                         "accomplishment":"-1",
                         "id":"43"
                     }, {
-                        "title": "最后单词的长度",
+                        "title": "最后单词的长度（选做）",
                         "accomplishment":"-1",
                         "id":"47"
                     }]
@@ -204,15 +232,27 @@
                     "title": "课程7",
                     "expand":false,
                     "children": [{
-                        "title": "水平翻转二维数组",
+                        "title": "二维数组的和",
+                        "accomplishment":"-1",
+                        "id":"168"
+                    },{
+                        "title": "二维数组的头和尾",
+                        "accomplishment":"-1",
+                        "id":"169"
+                    },{
+                        "title": "在二维数组中搜索数字",
+                        "accomplishment":"-1",
+                        "id":"170"
+                    },{
+                        "title": "水平翻转二维数组（选做）",
                         "accomplishment":"-1",
                         "id":"61"
                     }, {
-                        "title": "更新二维数组",
+                        "title": "更新二维数组（选做）",
                         "accomplishment":"-1",
                         "id":"62"
                     }, {
-                        "title": "对焦翻转",
+                        "title": "对焦翻转（选做）",
                         "accomplishment":"-1",
                         "id":"63"
                     }]
