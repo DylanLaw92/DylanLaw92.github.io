@@ -264,21 +264,25 @@
                     "title": "数组1",
                     "expand":false,
                     "children": [{
-                        "title": "最大相连数",
+                        "title": "用函数计算A+B",
                         "accomplishment": "-1",
-                        "id":"39"
+                        "id":"192"
                     }, {
-                        "title": "分离0与非0",
+                        "title": "特殊的函数",
+                        "accomplishment":"-1",
+                        "id":"193"
+                    }, {
+                        "title": "逆序输出数组",
+                        "accomplishment":"-1",
+                        "id":"34"
+                    }, {
+                        "title": "最大连续递增序列",
+                        "accomplishment":"-1",
+                        "id":"248"
+                    },{
+                        "title": "分离0与非0（附加题）",
                         "accomplishment":"-1",
                         "id":"40"
-                    }, {
-                        "title": "寻找两数之和",
-                        "accomplishment":"-1",
-                        "id":"78"
-                    }, {
-                        "title": "分离1与非1",
-                        "accomplishment":"-1",
-                        "id":"104"
                     }]
                 },{
                     "title": "数组2",
