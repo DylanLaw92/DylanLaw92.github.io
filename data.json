@@ -288,21 +288,17 @@
                     "title": "数组2",
                     "expand":false,
                     "children": [{
-                        "title": "整数加1",
-                        "accomplishment": "-1",
-                        "id":"79"
+                        "title": "分离0与非0",
+                        "accomplishment":"-1",
+                        "id":"40"
                     }, {
-                        "title": "数组右移",
+                        "title": "寻找两数之和",
                         "accomplishment":"-1",
-                        "id":"80"
+                        "id":"78"
                     }, {
-                        "title": "杨辉三角形",
+                        "title": "分离1与非1",
                         "accomplishment":"-1",
-                        "id":"81"
-                    },{
-                        "title": "托普利茨矩阵",
-                        "accomplishment":"-1",
-                        "id":"82"
+                        "id":"104"
                     }]
                 },{
                     "title": "字符串1",
