@@ -288,6 +288,10 @@
                     "title": "数组2",
                     "expand":false,
                     "children": [{
+                        "title": "99乘法表",
+                        "accomplishment":"-1",
+                        "id":"33"
+                    }, {
                         "title": "分离0与非0",
                         "accomplishment":"-1",
                         "id":"40"
@@ -295,6 +299,10 @@
                         "title": "寻找两数之和",
                         "accomplishment":"-1",
                         "id":"78"
+                    },{
+                        "title": "数组的特殊元素",
+                        "accomplishment":"-1",
+                        "id":"242"
                     }, {
                         "title": "分离1与非1",
                         "accomplishment":"-1",
